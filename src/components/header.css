@@ -1,0 +1,40 @@
+#headerImageOverlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.caption {
+  margin-top: -19vw;
+  font-size: 3vw;
+}
+
+#headerImage {
+  filter: blur(6px);
+  -webkit-filter: blur(6px);
+  z-index: -1;
+}
+
+#captionImage {
+  height: 50vw;
+  margin-top: -20 vw;
+  margin-left: 600px;
+}
+
+.my-container {
+  border: 1px solid red;
+  color: white;
+}
+
+.my-row {
+  border: 1px solid green;
+  height: ;
+}
+
+.my-col {
+  border: 2px dotted blue;
+}
