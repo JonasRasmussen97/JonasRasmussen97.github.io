@@ -1,6 +1,6 @@
 {
   "name": "react-app",
-  "homepage": "https://jonassdu.github.io/", 
+  "homepage": "https://jonassdu.github.io/main", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
